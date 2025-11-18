@@ -1,0 +1,30 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio folders
+.vs/
+*.user
+*.rsuser
+*.suo
+
+# ASP.NET
+appsettings.Development.json
+appsettings.*.json
+
+# Logs
+*.log
+
+# Publish output
+*.publish.xml
+
+# Visual Studio Code
+.vscode/
+
+# NuGet
+*.nupkg
+packages/
+*.snupkg
+
+# Others
+Properties/launchSettings.json

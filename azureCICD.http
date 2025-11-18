@@ -1,0 +1,6 @@
+@azureCICD_HostAddress = http://localhost:5253
+
+GET {{azureCICD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
