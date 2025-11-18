@@ -1,3 +1,5 @@
+# test trigger
+
 name: Build and Deploy to Azure App Service
 
 on:
